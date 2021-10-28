@@ -16,7 +16,7 @@ import java.util.Map;
  * Map<Character, Integer> - считать для
  * каждого символа строки количество его вхождений.
  *
- * @author Geraskin Egor(geraskin@yandex-team.ru)
+ * @author Geraskin Egor
  * @since 9/17/21
  */
 public class StringHybridsTask {

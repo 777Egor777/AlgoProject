@@ -10,7 +10,7 @@ import java.util.Arrays;
  *    N <= 100. 100 <= dist[i] <= 5000. 1 <= patrol[i] <= 10.
  *    dist[i] кратно 100
  *
- * @author Geraskin Egor(geraskin@yandex-team.ru)
+ * @author Geraskin Egor
  * @since 9/6/21
  */
 public class Driver {

@@ -138,7 +138,7 @@
  *          return z;
  *     }
  *
- * @author Geraskin Egor(geraskin@yandex-team.ru)
+ * @author Geraskin Egor
  * @since 9/15/21
  */
 public class Z_Function {
